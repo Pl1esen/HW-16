@@ -1,0 +1,57 @@
+.box{
+    margin:0 auto;
+    width:1200px;
+    height: 600px;
+    background-color: darkgreen;
+    background-image:url(ImgHWW+16/pole-zelen-trava-dom-derevya.webp);
+    background-size: 530px;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+
+.jozik{
+    margin:0 auto;
+    width:1200px;
+    height: 600px;
+  background-image: url(ImgHWW+16/3F3F.webp);
+  background-size: 35px;
+  background-repeat: repeat-y ;
+  background-position: top left;
+}
+
+
+.ponchik{ 
+    margin:0 auto;
+    width: 1200px;
+    height:600px;
+    background-image: url(ImgHWW+16/Ponchik.forHtml.png);
+    background-size:35px;
+    background-repeat:repeat-y;
+    background-position: top right;
+
+}
+
+.lamp{
+    margin:0 auto;
+    width: 1200px;
+    height:600px;
+    background-image:url(ImgHWW+16/lamp-png-34914.png);
+    background-size:45px;
+    background-repeat:repeat-x;
+    background-position: top ;
+
+}
+
+.grass{
+    margin:0 auto;
+    width: 1200px;
+    height:600px;
+    background-image: url(ImgHWW+16/green-png-44873.png);
+    background-size: 245px;
+    background-repeat: repeat-x;
+    background-position:bottom left;
+
+}
+
